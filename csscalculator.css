@@ -1,6 +1,6 @@
 body {
-  font-family: Roboto;
-  background: #FFFFFF;
+  font-family: Sans-serif;
+  background: #42f5c8;
   /* fallback for old browsers */
   background: -webkit-linear-gradient(to left, #8E0E00, #1F1C18);
   /* Chrome 10-25, Safari 5.1-6 */
@@ -20,6 +20,8 @@ body {
 }
 
 h1 {
+  font-family: Cursive;
+  
   background: #1F030C;
   color: white;
   margin: 0;
