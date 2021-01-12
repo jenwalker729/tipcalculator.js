@@ -84,7 +84,7 @@ button {
   font-weight: bold;
   display: block;
   margin: 30px auto;
-  background: #d5f2ea;
+  background: #42ffe0;
   border-radius: 5px;
   width: 200px;
   height: 50px;
@@ -93,7 +93,7 @@ button {
 }
 
 button:hover {
-  background: #4c2827;
+  background: #5b42ff;
   border-bottom-color: #111;
 }
 
